@@ -1,2 +1,2 @@
-ÔÆ¿ÎÌÃêÇ³Æ£ºtwentyfive25
+myID:twentyfive25
 # castle3
